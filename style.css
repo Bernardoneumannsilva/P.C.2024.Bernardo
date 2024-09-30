@@ -8,9 +8,10 @@ p{
 }
 
 h1{
-    font-family: "Blippo, fantasy";
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
-}li { 
+}
+li { 
     font-style: italic;
 }
 
@@ -25,5 +26,5 @@ h3{
 }
 
 .imagem{
-    width:200% ;
+    width:50% ;
 }
