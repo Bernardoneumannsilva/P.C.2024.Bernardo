@@ -8,10 +8,15 @@ p{
 }
 
 h1{
-    font-style:oblique ;
+    font-family: "Blippo, fantasy";
 
 }li { 
     font-style: italic;
+}
+
+h2{
+    font-size: 200%;
+    font-style: italic ;
 }
 
 h3{
@@ -20,5 +25,5 @@ h3{
 }
 
 .imagem{
-    width:200% ;;
+    width:200% ;
 }
