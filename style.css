@@ -1,12 +1,19 @@
 body { 
-    background-color: rgb(194, 220, 255)
+    background-color: rgb(194, 220, 255);
 }
 
 p{
-    
+     font-size:125%  
 }
 
 h1{
-    
+    font-style:Blippo, fantasy ;
+
+}li { 
+    font-style: italic;
 }
 
+h3{
+    font-size: 175%;
+    color: blue;
+}
