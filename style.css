@@ -4,11 +4,11 @@ body {
 }
 
 p{
-     font-size:125%  
+     font-size:125%  ;
 }
 
 h1{
-    font-style:Blippo, fantasy ;
+    font-style:oblique ;
 
 }li { 
     font-style: italic;
