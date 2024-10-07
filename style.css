@@ -13,6 +13,7 @@ h1{
 }
 li { 
     font-style: italic;
+    font-size: 230%;
 }
 
 h2{
@@ -27,8 +28,4 @@ h3{
 
 .imagem{
     width: 40%;
-}
-
-li {
-    font-size: 230%;
 }
