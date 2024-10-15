@@ -1,5 +1,5 @@
 body { 
-    background-image: image-set("fundo.jpeg") ;
+    background-image: image("fundo.jpeg") ;
     text-align: center;
 }
 
